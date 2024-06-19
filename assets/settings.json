@@ -1,0 +1,31 @@
+{
+    "output_folder": null,
+    "open_folder": true,
+    "interface": {
+        "bg_color": "#E991C2",
+        "text_color": "#634693",
+        "main_color": "#BB91FF"
+    },
+    "timestamp": {
+        "default": {
+            "font": "vcrosdmonorus_vhsicons.ttf",
+            "text_size": 24,
+            "offset": 20,
+            "text_color": "#FFD94F",
+            "use_month_names": true,
+            "twitch": false,
+            "aberration": true,
+            "position": "Bottom Right"
+        },
+        "user": {
+            "font": "vcrosdmonorus_vhsicons.ttf",
+            "text_size": 24,
+            "offset": 20,
+            "text_color": "#FFD94F",
+            "use_month_names": true,
+            "twitch": false,
+            "aberration": true,
+            "position": "Bottom Right"
+        }
+    }
+}
