@@ -11,20 +11,20 @@
     <img src="readme_assets\example.gif" width="786">
 </p>
 
-## Installation and running app
+## Installation and running app (Windows)
 ```powershell
-# poetry (recommended)
+# poetry
 poetry install
 poetry run python main.py
-
+```
+```powershell
 # pip
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 python main.py
 ```
-Also you can unpack zip archive from [releases](https://github.com/yrkdaysnf/timestampgenerator/releases) and run .exe (Not recommended)
-
+You can also unzip the zip archive of the current version of the application from the [releases](https://github.com/yrkdaysnf/timestampgenerator/releases) and run `.exe` file.
 ## Using
 1. Select one or more media files. 
 2. If necessary, using the buttons around to the media name, change the date and time, or delete the media from the queue.
