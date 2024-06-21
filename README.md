@@ -23,7 +23,7 @@ python -m venv .venv
 pip install -r requirements.txt
 python main.py
 ```
-Also you can unpack zip archive and run .exe (Not recommended)
+Also you can unpack zip archive from [releases](https://github.com/yrkdaysnf/timestampgenerator/releases) and run .exe (Not recommended)
 
 ## Using
 1. Select one or more media files. 
