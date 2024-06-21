@@ -66,6 +66,15 @@ To customize timestamp, go to settings by clicking on the button in the lower le
   * *Month in letters* - Writing the month in letters. Enabled by default.
   * *Aberration* - Distorts the timestamp colors by shifting the color channels. Enabled by default.
 
+### Speed test
+* Input
+  * Resolution - *720x576*
+  * Duration - *12 seconds*
+* Speed processing
+  * Only timestamp - *4 seconds*
+  * With aberration - *8 seconds*
+  * With twitch - *12 seconds*
+  * With aberration and twitch - *16 seconds*
 
 ## To-Do
 - [ ] Test on Linux
