@@ -2,12 +2,12 @@ from datetime import datetime, timedelta
 from os import path
 from random import randint as rint
 from json import load
-from tempfile import gettempdir
 
 from proglog import ProgressBarLogger
 from moviepy.editor import VideoFileClip
 from PIL import Image, ImageDraw, ImageFont
 from numpy import array as ar
+
 
 class progress_logger(ProgressBarLogger):
     def __init__(self, stop_event, update_progress):

@@ -5,8 +5,8 @@ from os import path, name, listdir, remove
 
 def open_folder(out):
     if path.exists(out):
-        if name == 'nt':Popen(f'explorer "{out}"')# Windows
-        elif name == 'posix':  # macOS or Linux
+        if name == 'nt':Popen(f'explorer "{out}"') # Windows
+        elif name == 'posix': # Linux
             if call(['which', 'xdg-open']) == 0:Popen(['xdg-open', out])
             elif call(['which', 'open']) == 0:Popen(['open', out])
 

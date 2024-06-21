@@ -29,7 +29,6 @@ def main(page: ft.Page):
     page.window_min_width = 800
     page.window_min_height = 600
     page.bgcolor = bg_color
-    # page.theme_mode = 'light'
 
     def pick_files_result(e: ft.FilePickerResultEvent):
         if e.files:
