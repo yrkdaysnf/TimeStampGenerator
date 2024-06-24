@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "timestampgenerator"
+name = "TimeStampGenerator"
 package-mode = false
 version = "1.0.0"
 description = "GUI App for generating TimeStamp's on video's."
 authors = ["yrkdaysnf <yaroslav.y2010@ya.ru>"]
 readme = "README.md"
 license = "MIT"
-repository = "https://github.com/yrkdaysnf/timestampgenerator"
+repository = "https://github.com/yrkdaysnf/TimeStampGenerator"
 
 [tool.poetry.dependencies]
 python = ">=3.11,<3.13"
