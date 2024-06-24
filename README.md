@@ -1,4 +1,4 @@
-# TimeStamp Generator
+# TimeStampGenerator
 <p align='center'>
     <img src="readme_assets\head.png">
 </p>
