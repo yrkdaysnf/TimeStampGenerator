@@ -77,6 +77,6 @@ To customize timestamp, go to settings by clicking on the button in the lower le
   * With aberration and twitch - *16 seconds*
 
 ## To-Do
-- [x] Test on Linux - Working!
+- [x] Test on Linux - Working but need install some packages.
 - [ ] Custom format for timestamp
 - [ ] Testing other videoformats
